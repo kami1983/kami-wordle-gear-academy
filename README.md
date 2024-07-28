@@ -39,3 +39,13 @@
    ```sh
    cargo test
    ```
+
+# Deploy to testnet
+* `https://idea.gear-tech.io/?node=wss%3A%2F%2Ftestnet.vara.network`
+## wordle-program: 
+* name: `kami_wordle_gear_academy`
+* id: `0xfd91bd7c1216335cdc450dd1369640937686783d5db6a0b78e9fa06a9c5362b2`
+  
+## wordle-session:
+* name: `kami_wordle_session_gear_academy`
+* id: `0x1333a3fc51a4c3cfddfeee703a537fd3179eb17f1733be2a812b5ea964f9e44f`
